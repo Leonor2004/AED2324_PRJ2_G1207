@@ -1,5 +1,5 @@
 # AED2324_PRJ2_G1207
-Air Travel Flight Management System
+AED 2º Project - Air Travel Flight Management System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
